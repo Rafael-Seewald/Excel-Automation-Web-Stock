@@ -1,4 +1,4 @@
-# Excel-Automation
+# Excel-Automation-Web-Stock
 Uma automação de planilha de excel com cadastro em site
 
 Quando executar o script ele automáticamente abrirá o site de estoque da empresa (de sua escolha) e
