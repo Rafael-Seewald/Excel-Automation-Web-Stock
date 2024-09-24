@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/PYTHON%20-%20darkblue"><img>
 <img src="https://img.shields.io/badge/AUTOMATION%20-%20darkred"><img>
 <img src="https://img.shields.io/badge/DATABASE%20-%20green"><img>
-<img src="https://img.shields.io/badge/EXCEL%20-%20darkpink"><img>
+<img src="https://img.shields.io/badge/EXCEL%20-%20brown"><img>
 
 <br>
 <hr>
