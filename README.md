@@ -7,9 +7,11 @@
 
 <h2 align="center">Uma automação de cadastro de itens de um excel para um site</h2>
 <br>
+<br>
 
 <h1 align="center">
-<img src="./gif.gif" width="740" height="530"></img>
+  <br>
+  <img src="./gif.gif" width="740" height="530"></img>
 </h1>
 
 <h1> - Como funciona:</h1>
@@ -17,7 +19,8 @@
 fará o cadastro de todos os itens que estão dentro da planilha do Excel, até que esses acabem todos
 cadastrados.</h3>
 
-
+<br>
+<hr>
 <div align="center">
   <footer>
     <br>
