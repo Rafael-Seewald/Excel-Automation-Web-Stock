@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/EXCEL%20-%20brown"><img>
 
 <h2 align="center">Uma automação de cadastro de itens de um excel para um site</h2>
-<br>
 
 <h1 align="center">
   <img src="./gif.gif" width="1040" height="730"></img>
