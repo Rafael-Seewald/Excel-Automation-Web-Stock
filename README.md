@@ -5,7 +5,9 @@
 <img src="https://img.shields.io/badge/DATABASE%20-%20green"><img>
 <img src="https://img.shields.io/badge/EXCEL%20-%20yellow"><img>
 
-<h3 align="center">Uma automação de planilha de excel com cadastro em site</h3>
+<br>
+<hr>
+<h2 align="center">Uma automação de cadastro de itens de um excel para um site</h2>
 
 <h1 align="center">
 <img src="./gif.gif" width="740" height="530"></img>
