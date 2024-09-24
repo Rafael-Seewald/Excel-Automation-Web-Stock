@@ -7,11 +7,9 @@
 
 <h2 align="center">Uma automação de cadastro de itens de um excel para um site</h2>
 <br>
-<br>
 
 <h1 align="center">
-  <br>
-  <img src="./gif.gif" width="740" height="530"></img>
+  <img src="./gif.gif" width="1040" height="730"></img>
 </h1>
 
 <h1> - Como funciona:</h1>
